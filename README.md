@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AbdulChatha
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning programing
+- 👋 Hi, I’m Abdul Haq
+- 👀 I’m interested in becoming a Data Scientist
+- 🌱 I’m currently learning programing and ML
 - 📫 How to reach me ...
 - ahaq6333@gamil.com
 
