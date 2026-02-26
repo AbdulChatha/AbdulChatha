@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdul Haq
-- 👀 I’m senior a Data Scientist
+- 👀 I’m a senior Data Scientist
 - 📫 How to reach me ...
 - ahaq63334@gamil.com
